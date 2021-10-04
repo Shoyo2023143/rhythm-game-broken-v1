@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UICode/PauseMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Main_Gameplay/SongManager.cs" Line="43" Column="70" />
+      <File FileName="Assets/Scripts/Main_Gameplay/Lane.cs" Line="171" Column="1" />
+      <File FileName="Assets/Scripts/Main_Gameplay/LongNote.cs" Line="18" Column="17" />
+      <File FileName="Assets/Scripts/Main_Gameplay/Note.cs" Line="33" Column="59" />
+      <File FileName="Assets/Scripts/Main_Gameplay/LongCounter.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/Main_Gameplay/Counter.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/Main_Gameplay/ShortNoteCounter.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/Main_Gameplay/BeatManager.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/UICode/PauseMenu.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RhythmGameTutorialProject-main" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Main_Gameplay" expanded="True" />
+                  <Node name="UICode" expanded="True">
+                    <Node name="SceneTransition.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f1f5278f-85ed-4091-9970-7add47c3cf65" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
