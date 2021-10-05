@@ -1,5 +1,8 @@
 ﻿<Properties StartupConfiguration="{B7ABBA1B-F6DE-BC43-0FF9-ABBA5068EF9D}|">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Main_Gameplay/Lane.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Main_Gameplay/Lane.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -7,7 +10,7 @@
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
                 <Node name="Main_Gameplay" expanded="True">
-                  <Node name="LongNote.cs" selected="True" />
+                  <Node name="Lane.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -18,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d59f3a0d-c115-4671-ae97-409e8181f6cf" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1ace3dd-424c-438c-8858-dec3d8f32c55" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
